@@ -6,7 +6,7 @@ Software Engineer
 
 I am a passionate and results-driven software engineer with a strong background in analysis, synthesis, modeling, and strategic planning. I have extensive experience developing robust and scalable web and mobile solutions across a wide range of infrastructures, I bring deep technical expertise in languages and frameworks including JavaScript, ReactJS, React Native, PHP, C, C++, HTML, and NodeJS, also a proven track record of delivering high-quality solutions, from custom designs to content management systems (CMS), with a particular strength in blending intuitive front-end experiences with solid back-end architecture. I thrive at the intersection of design and usability, consistently focusing on creating seamless, user-centered applications that deliver real impact
 
-* ✉️  You can contact me at [alejandro@sancrisoft.com](mailto:alejandro@sancrisoft.com)
+✉️  You can contact me at [alejandro@sancrisoft.com](mailto:alejandro@sancrisoft.com)
 
 ### Skills
 
